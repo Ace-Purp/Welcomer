@@ -24,4 +24,4 @@ client.on("guildMemberAdd", async (member) => {
   channel.send({embeds: [welcomeEmbed]});
 });
 
-client.login("OTE2ODIwMzQzMTQwODA2Njk2.Yavtew.Uxxl9l54YutNFmOTTe2yN9oFCBI")
+client.login("")
